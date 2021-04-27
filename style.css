@@ -52,6 +52,7 @@ width: 33.33%;
 
 img{
 	width: fit-content;
+	width: -moz-fit-content;
 }
 
 h1{
